@@ -1,0 +1,10 @@
+{
+    "name": "@la-testcoder/ts-test",
+    "version": "0.0.1",
+    "devDependencies": {
+        "typescript": "^3.5.3"
+    },
+    "scripts": {
+        "tsc": "tsc"
+    }
+}
